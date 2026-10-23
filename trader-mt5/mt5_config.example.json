@@ -1,0 +1,15 @@
+{
+  "terminal_path": "C:\\Program Files\\Hantec Markets MT5 Terminal\\terminal64.exe",
+  "symbols": ["EURUSD", "GBPUSD", "AUDUSD"],
+  "risk_per_trade": 20,
+  "max_daily_loss": 60,
+  "max_trades_per_day": 3,
+  "min_reward_risk": 1.5,
+  "require_stop": true,
+  "max_lots": 1.0,
+  "max_spread_atr_pct": 15,
+  "max_margin_pct_of_free": 50,
+  "deviation_points": 20,
+  "magic": 260101,
+  "allow_live": false
+}
